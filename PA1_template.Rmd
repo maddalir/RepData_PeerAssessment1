@@ -5,6 +5,9 @@ date: "August 16, 2015"
 output: html_document
 ---
 
+** "Activity Pattern Analysis" **
+** author: "Raj Maddali" **
+
 <br><br>
 **Overview: **
 
